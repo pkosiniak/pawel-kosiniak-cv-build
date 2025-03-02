@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21bb80db.css",
+    "main.js": "/static/js/main.b7eacefd.js",
+    "static/js/787.3a37a7dc.chunk.js": "/static/js/787.3a37a7dc.chunk.js",
+    "static/media/FluentSystemIcons-Regular.ttf": "/static/media/FluentSystemIcons-Regular.3f329aa17fe8fc54f7ba.ttf",
+    "static/media/FluentSystemIcons-Filled.ttf": "/static/media/FluentSystemIcons-Filled.65cf5b6da4b709d49ebd.ttf",
+    "static/media/FluentSystemIcons-Resizable.ttf": "/static/media/FluentSystemIcons-Resizable.d09f06331772664247c0.ttf",
+    "static/media/FluentSystemIcons-Regular.woff": "/static/media/FluentSystemIcons-Regular.51efcbd95b894b509d2c.woff",
+    "static/media/FluentSystemIcons-Filled.woff": "/static/media/FluentSystemIcons-Filled.85546d077961f716eeea.woff",
+    "static/media/FluentSystemIcons-Regular.woff2": "/static/media/FluentSystemIcons-Regular.a5df5d5e4cf00f8fb8f5.woff2",
+    "static/media/FluentSystemIcons-Filled.woff2": "/static/media/FluentSystemIcons-Filled.d3390e5c0fb5137590f7.woff2",
+    "static/media/FluentSystemIcons-Resizable.woff": "/static/media/FluentSystemIcons-Resizable.c88618f8c5053299c904.woff",
+    "static/media/FluentSystemIcons-Resizable.woff2": "/static/media/FluentSystemIcons-Resizable.9a4f3523237bd70813dd.woff2",
+    "index.html": "/index.html",
+    "main.21bb80db.css.map": "/static/css/main.21bb80db.css.map",
+    "main.b7eacefd.js.map": "/static/js/main.b7eacefd.js.map",
+    "787.3a37a7dc.chunk.js.map": "/static/js/787.3a37a7dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bb80db.css",
+    "static/js/main.b7eacefd.js"
+  ]
+}
